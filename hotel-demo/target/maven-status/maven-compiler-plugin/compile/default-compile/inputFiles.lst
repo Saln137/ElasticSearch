@@ -1,0 +1,13 @@
+F:\IdeaProjects\hotel-demo\src\main\java\cn\itcast\hotel\pojo\RequestParams.java
+F:\IdeaProjects\hotel-demo\src\main\java\cn\itcast\hotel\pojo\HotelDoc.java
+F:\IdeaProjects\hotel-demo\src\main\java\cn\itcast\hotel\HotelDemoApplication.java
+F:\IdeaProjects\hotel-demo\src\main\java\cn\itcast\hotel\constants\HotelConstants.java
+F:\IdeaProjects\hotel-demo\src\main\java\cn\itcast\hotel\mapper\HotelMapper.java
+F:\IdeaProjects\hotel-demo\src\main\java\cn\itcast\hotel\service\IHotelService.java
+F:\IdeaProjects\hotel-demo\src\main\java\cn\itcast\hotel\pojo\PageResult.java
+F:\IdeaProjects\hotel-demo\src\main\java\cn\itcast\hotel\controller\HotelController.java
+F:\IdeaProjects\hotel-demo\src\main\java\cn\itcast\hotel\config\MqConfig.java
+F:\IdeaProjects\hotel-demo\src\main\java\cn\itcast\hotel\service\impl\HotelService.java
+F:\IdeaProjects\hotel-demo\src\main\java\cn\itcast\hotel\mq\HotelListener.java
+F:\IdeaProjects\hotel-demo\src\main\java\cn\itcast\hotel\constants\MqConstants.java
+F:\IdeaProjects\hotel-demo\src\main\java\cn\itcast\hotel\pojo\Hotel.java
